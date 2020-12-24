@@ -22,7 +22,7 @@ export default class Directory extends Component {
           id: 2,
           linkUrl: "",
         },
-        {
+        { 
           title: "sneakers",
           imageUrl: "https://i.ibb.co/0jqHpnp/sneakers.png",
           id: 3,
