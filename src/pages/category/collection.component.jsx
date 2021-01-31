@@ -7,7 +7,7 @@ import CollectionItem from "../../components/collection-item/collection-item.com
 // import CollectionItem from "../../components/collection-item/collection-item.component";
 import "./collection.styles.scss";
 
-const CategoryPage = ({collection }) => {
+const CategoryPage = ({collection}) => {
   const { title, items } = collection;
   return (
     <div className="collection-page">
