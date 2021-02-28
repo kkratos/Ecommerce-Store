@@ -7,8 +7,6 @@ import shopReducer from '../redux/shop/shop.reducer';
 import { persistReducer } from 'redux-persist';
 import storage from 'redux-persist/lib/storage';
 
-
-
 const persistConfig = {
     key: 'root',
     storage,
